@@ -1,9 +1,123 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="27.0.4">
   <diagram name="Page-1" id="aMW8QNcONcbsNZGnDt1u">
-    <mxGraphModel>
+    <mxGraphModel dx="1026" dy="623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="16Ef0tQJpmEr65YTbddK-4" value="Horizontal Tree Layout" style="swimlane;startSize=20;horizontal=0;childLayout=treeLayout;horizontalTree=1;sortEdges=1;resizable=0;containerType=tree;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="20" y="100" width="760" height="663" as="geometry" />
+        </mxCell>
+        <mxCell id="16Ef0tQJpmEr65YTbddK-5" value="Level2: Agriculture" style="whiteSpace=wrap;html=1;" vertex="1" parent="16Ef0tQJpmEr65YTbddK-4">
+          <mxGeometry x="40" y="318.875" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="16Ef0tQJpmEr65YTbddK-6" value="Level1: Farming" style="whiteSpace=wrap;html=1;" vertex="1" parent="16Ef0tQJpmEr65YTbddK-4">
+          <mxGeometry x="200" y="155.25" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="16Ef0tQJpmEr65YTbddK-7" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;html=1;rounded=1;curved=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startSize=6;endSize=6;" edge="1" parent="16Ef0tQJpmEr65YTbddK-4" source="16Ef0tQJpmEr65YTbddK-5" target="16Ef0tQJpmEr65YTbddK-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="16Ef0tQJpmEr65YTbddK-8" value="Level1: Rural_Farm_Scene" style="whiteSpace=wrap;html=1;" vertex="1" parent="16Ef0tQJpmEr65YTbddK-4">
+          <mxGeometry x="200" y="482.5" width="108" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="16Ef0tQJpmEr65YTbddK-9" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;html=1;rounded=1;curved=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startSize=6;endSize=6;" edge="1" parent="16Ef0tQJpmEr65YTbddK-4" source="16Ef0tQJpmEr65YTbddK-5" target="16Ef0tQJpmEr65YTbddK-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="16Ef0tQJpmEr65YTbddK-15" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;html=1;rounded=1;curved=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startSize=6;endSize=6;" edge="1" target="16Ef0tQJpmEr65YTbddK-16" source="16Ef0tQJpmEr65YTbddK-6" parent="16Ef0tQJpmEr65YTbddK-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="170" y="-761.17" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="16Ef0tQJpmEr65YTbddK-16" value="&lt;p class=&quot;p1&quot;&gt;Image &lt;span class=&quot;s1&quot;&gt;164391&lt;/span&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="16Ef0tQJpmEr65YTbddK-4">
+          <mxGeometry x="360" y="68" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="16Ef0tQJpmEr65YTbddK-17" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;html=1;rounded=1;curved=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startSize=6;endSize=6;" edge="1" target="16Ef0tQJpmEr65YTbddK-18" source="16Ef0tQJpmEr65YTbddK-8" parent="16Ef0tQJpmEr65YTbddK-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="170" y="-761.17" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="16Ef0tQJpmEr65YTbddK-18" value="Image&amp;nbsp;&lt;span style=&quot;font-family: &amp;quot;Helvetica Neue&amp;quot;; font-size: 13px; text-align: start; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;252048&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="16Ef0tQJpmEr65YTbddK-4">
+          <mxGeometry x="358" y="402.5" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="16Ef0tQJpmEr65YTbddK-21" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;html=1;rounded=1;curved=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startSize=6;endSize=6;" edge="1" target="16Ef0tQJpmEr65YTbddK-22" source="16Ef0tQJpmEr65YTbddK-16" parent="16Ef0tQJpmEr65YTbddK-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="-704.17" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="16Ef0tQJpmEr65YTbddK-22" value="&lt;p class=&quot;p1&quot;&gt;&amp;nbsp;Old caption: &quot;Man holding a plow horse in the snow in front of a barn.&quot;,&lt;/p&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="16Ef0tQJpmEr65YTbddK-4">
+          <mxGeometry x="510" y="20" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="16Ef0tQJpmEr65YTbddK-23" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;html=1;rounded=1;curved=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startSize=6;endSize=6;" edge="1" target="16Ef0tQJpmEr65YTbddK-24" source="16Ef0tQJpmEr65YTbddK-16" parent="16Ef0tQJpmEr65YTbddK-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="-678.79" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="16Ef0tQJpmEr65YTbddK-24" value="&lt;p class=&quot;p1&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;New caption:&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-family: &amp;quot;Helvetica Neue&amp;quot;; font-size: 13px; text-align: start;&quot;&gt;&quot;A person is riding a horse in a field.&quot;&lt;/span&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="16Ef0tQJpmEr65YTbddK-4">
+          <mxGeometry x="510" y="114.5" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="16Ef0tQJpmEr65YTbddK-25" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;html=1;rounded=1;curved=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startSize=6;endSize=6;" edge="1" target="16Ef0tQJpmEr65YTbddK-26" source="16Ef0tQJpmEr65YTbddK-6" parent="16Ef0tQJpmEr65YTbddK-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="170" y="-527.17" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="16Ef0tQJpmEr65YTbddK-26" value="Image&amp;nbsp;&lt;span style=&quot;background-color: rgb(255, 255, 255); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; white-space: pre; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;231295&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="16Ef0tQJpmEr65YTbddK-4">
+          <mxGeometry x="360" y="242.5" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="16Ef0tQJpmEr65YTbddK-27" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;html=1;rounded=1;curved=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startSize=6;endSize=6;" edge="1" target="16Ef0tQJpmEr65YTbddK-28" source="16Ef0tQJpmEr65YTbddK-26" parent="16Ef0tQJpmEr65YTbddK-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="-421.34999999999997" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="16Ef0tQJpmEr65YTbddK-28" value="Old caption: &quot;two young girls petting cows inside of a pen.&quot;" style="whiteSpace=wrap;html=1;" vertex="1" parent="16Ef0tQJpmEr65YTbddK-4">
+          <mxGeometry x="510" y="202.5" width="230" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="16Ef0tQJpmEr65YTbddK-29" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;html=1;rounded=1;curved=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startSize=6;endSize=6;" edge="1" target="16Ef0tQJpmEr65YTbddK-30" source="16Ef0tQJpmEr65YTbddK-26" parent="16Ef0tQJpmEr65YTbddK-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="-424.325" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="16Ef0tQJpmEr65YTbddK-30" value="New caption:&amp;nbsp;&amp;nbsp;&amp;nbsp;&quot;A farmer tending to goats near a fence.&quot;" style="whiteSpace=wrap;html=1;" vertex="1" parent="16Ef0tQJpmEr65YTbddK-4">
+          <mxGeometry x="510" y="282.5" width="230" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="16Ef0tQJpmEr65YTbddK-31" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;html=1;rounded=1;curved=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startSize=6;endSize=6;" edge="1" target="16Ef0tQJpmEr65YTbddK-32" source="16Ef0tQJpmEr65YTbddK-18" parent="16Ef0tQJpmEr65YTbddK-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="322" y="-18.94999999999999" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="16Ef0tQJpmEr65YTbddK-32" value="&amp;nbsp;Old caption: &quot;A horse is standing in the stables in the hay&quot;," style="whiteSpace=wrap;html=1;" vertex="1" parent="16Ef0tQJpmEr65YTbddK-4">
+          <mxGeometry x="508" y="362.5" width="226" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="16Ef0tQJpmEr65YTbddK-35" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;html=1;rounded=1;curved=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startSize=6;endSize=6;" edge="1" target="16Ef0tQJpmEr65YTbddK-36" source="16Ef0tQJpmEr65YTbddK-8" parent="16Ef0tQJpmEr65YTbddK-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="322" y="-17.75" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="16Ef0tQJpmEr65YTbddK-36" value="Image&amp;nbsp;&lt;span style=&quot;background-color: rgb(255, 255, 255); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; white-space: pre; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;24207&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="16Ef0tQJpmEr65YTbddK-4">
+          <mxGeometry x="358" y="562.5" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="16Ef0tQJpmEr65YTbddK-38" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;html=1;rounded=1;curved=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startSize=6;endSize=6;" edge="1" target="16Ef0tQJpmEr65YTbddK-39" source="16Ef0tQJpmEr65YTbddK-36" parent="16Ef0tQJpmEr65YTbddK-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="328" y="267.625" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="16Ef0tQJpmEr65YTbddK-39" value="Old caption: &quot;several sheep walking around in a field with brown grass&quot;" style="whiteSpace=wrap;html=1;" vertex="1" parent="16Ef0tQJpmEr65YTbddK-4">
+          <mxGeometry x="508" y="522.5" width="232" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="16Ef0tQJpmEr65YTbddK-40" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;html=1;rounded=1;curved=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startSize=6;endSize=6;" edge="1" target="16Ef0tQJpmEr65YTbddK-41" source="16Ef0tQJpmEr65YTbddK-18" parent="16Ef0tQJpmEr65YTbddK-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="478" y="227.625" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="16Ef0tQJpmEr65YTbddK-41" value="New caption: &quot;&lt;span style=&quot;font-family: &amp;quot;Helvetica Neue&amp;quot;; font-size: 13px; text-align: start; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;A young calf lying down in a grassy area.&quot;&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="16Ef0tQJpmEr65YTbddK-4">
+          <mxGeometry x="508" y="442.5" width="226" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="16Ef0tQJpmEr65YTbddK-42" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;html=1;rounded=1;curved=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startSize=6;endSize=6;" edge="1" target="16Ef0tQJpmEr65YTbddK-43" source="16Ef0tQJpmEr65YTbddK-36" parent="16Ef0tQJpmEr65YTbddK-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="478" y="653" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="16Ef0tQJpmEr65YTbddK-43" value="New caption: &quot;A gathering of animals is roaming a grassy area.&quot;" style="whiteSpace=wrap;html=1;" vertex="1" parent="16Ef0tQJpmEr65YTbddK-4">
+          <mxGeometry x="508" y="602.5" width="232" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
